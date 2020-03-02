@@ -1,9 +1,0 @@
-1. Intro to full stack development(MERN Stack).
-2. Linking JS to HTML.
-3. JS Basics.
-4. Variables.
-5. Arrays.
-6. Objects.
-7. Loops.
-8. Methods.
-9. Primitive types and reference types.
